@@ -3,7 +3,7 @@ import dataFooter from "../../json/FooterData.json"
 
 const Footer = () => {
     return (
-        <footer className="text-center p-4 px-36 py-6 border border-t-2 border-black">
+        <footer className="text-center p-4 px-36 py-6 border-t-2 border-black">
             <div className="flex justify-center gap-5">
                 {dataFooter.map((item, index) => {
                     return (

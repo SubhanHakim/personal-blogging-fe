@@ -10,6 +10,7 @@ export default {
       primary: "#191919",
       white: "#ffffff",
       black: "#242424",
+      nord: "#ECEFF4"
     }
   },
 };
